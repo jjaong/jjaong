@@ -23,7 +23,7 @@ I enjoy hiking, exercising, watching movies.
 #
 
 📚 Tech Stacks  <br>
-Techs I've used least one
+Techs I've used least one<br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <br>
