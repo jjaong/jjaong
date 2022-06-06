@@ -19,8 +19,8 @@ Hi there 👋 <br>
 I'm a backEnd developer. <br>
 My main skills are  <br>
 I'm ~~ person. <br>
-#
 
+<hr>
 Tech Stacks 
 <br>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
