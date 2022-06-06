@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70)
 <div align = "center">
-Hi there 👋 I'm a backEnd developer. <br>
+Hi there 👋 <br>
+I'm a backEnd developer. <br>
 My main skills are  <br>
 I'm ~~ person. <br>
 #
@@ -28,8 +29,8 @@ Tech Stacks
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
-  #
-Intereted
+#
+😄Intereted
 exercise, movies, pictures, exhibition, 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaong&show_icons=true&theme=dracula)
