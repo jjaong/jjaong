@@ -15,24 +15,29 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70)
 <div align = "center">
-Hi there 👋 <br>
-I'm a backEnd developer. <br>
+Hi there 👋 I'm a backEnd developer. <br>
 My main skills are  <br>
-I'm ~~ person. <br>
-
-<hr>
-Tech Stacks 
-<br>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+I'm a ~~~~ person. <br>
+I enjoy hiking, exercising, watching movies.
 
 #
-😄Intereted
-exercise, movies, pictures, exhibition, 
-#
+
+📚 Tech Stacks  <br>
+Techs I've used least one
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Scss-green?style=flat-square&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <br>
+ <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+
+<br><br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaong&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjaong&layout=compact&theme=dracula)
