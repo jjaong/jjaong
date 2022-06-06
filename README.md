@@ -37,6 +37,7 @@ Techs I've used least one<br>
 
 <br><br>
 
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaong&show_icons=true&theme=dracula)
 
