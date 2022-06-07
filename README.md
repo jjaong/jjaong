@@ -21,8 +21,8 @@ I enjoy hiking, exercising, watching movies, cooking.🏃‍♂️🎬👩‍�
 
 <br>
 
-### 📚 Tech Stacks <br>
-# Techs I've used least once<br>
+# 📚 Tech Stacks <br>
+###Techs I've used least once<br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
