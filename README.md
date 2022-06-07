@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70)
 <div align = "center">
-Hi there 👋 I'm a backEnd developer. <br>
+Hi there 👋 I'm a backEnd developer.🌱 <br>
 Currently, I'm learning spring boot. <br>
 I enjoy hiking, exercising, watching movies, cooking.🏃‍♂️🎬👩‍🍳 <br>
 
+<br>
 
-#
-
-<b>📚 Tech Stacks <b> <br>
-Techs I've used least once<br>
+###📚 Tech Stacks <br>
+#Techs I've used least once<br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
