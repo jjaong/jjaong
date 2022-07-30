@@ -45,8 +45,8 @@ Tools<br>
   
 <br><br>
 <hr>
-
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaong&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjaong&layout=compact&theme=dracula)
 
-</div>
+
